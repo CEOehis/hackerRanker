@@ -1,9 +1,10 @@
 # Plus Minus Challenge
 
-[Link to Challenge}(https://www.hackerrank.com/challenges/plus-minus/problem)
+[Link to Challenge](https://www.hackerrank.com/challenges/plus-minus/problem)
 
 ## My solution
 
+```
 process.stdin.resume();
 process.stdin.setEncoding('ascii');
 
@@ -50,3 +51,4 @@ function main() {
     console.log(minusPlus(n, arr));
 
 }
+```
