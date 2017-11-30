@@ -1,3 +1,8 @@
+# Staircase problem
+
+[Link to problem](https://www.hackerrank.com/challenges/staircase/problem)
+
+## My solution
 ```
 process.stdin.resume();
 process.stdin.setEncoding('ascii');
