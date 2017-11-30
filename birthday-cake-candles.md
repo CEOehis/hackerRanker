@@ -1,6 +1,6 @@
 # Birthday Cake Candles problem
 
-[link to problem]()
+[link to problem](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)
 
 ## My solution 
 
